@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![GitHub stats](https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=transparent&hide_title=1)](https://github.com/plinkr/github-readme-stats)
 
 <!--
 **plinkr/plinkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
