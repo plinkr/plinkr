@@ -1,9 +1,9 @@
 ### Hi there :)
 <a href="https://github.com/plinkr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=transparent&hide_title=1&include_all_commits=true&rank_icon=default&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=transparent&hide_title=1&include_all_commits=true&rank_icon=default&card_width=300" />
 </a>
 <a href="https://github.com/plinkr/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api/top-langs/?username=plinkr&layout=compact&hide_progress=true&theme=transparent&hide=html,css&exclude_repo=atds3&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api/top-langs?username=plinkr&hide=html,css,scss&exclude_repo=atds3,elser30-own&layout=compact&hide_progress=true&langs_count=8&theme=transparent&card_width=290" />
 </a>
 
 <!--
