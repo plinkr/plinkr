@@ -1,5 +1,10 @@
-### Hi there 👋
-[![GitHub stats](https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=transparent&hide_title=1)](https://github.com/plinkr/github-readme-stats)
+### Hi there :)
+<a href="https://github.com/plinkr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=transparent&hide_title=1&include_all_commits=true&rank_icon=default" />
+</a>
+<a href="https://github.com/plinkr/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api/top-langs/?username=plinkr&layout=compact&hide_progress=true&theme=transparent&hide=html,css&exclude_repo=atds3&card_width=320" />
+</a>
 
 <!--
 **plinkr/plinkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
