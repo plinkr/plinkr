@@ -8,7 +8,7 @@
 <a href="https://github.com/plinkr/github-readme-streak-stats">
   <img height=200 align="center" src="https://github-readme-streak-stats-eight-chi.vercel.app?user=plinkr&theme=dark&hide_border=true&card_width=783&sideNums=3DDC84&currStreakNum=FF5F5F&sideLabels=417E87&dates=85A4C0&stroke=2C3C2C" />
 </a>
-<a href="https://github.com/plinkr/github-profile-trophyhttps://github.com/plinkr/github-profile-trophy">
+<a href="https://github.com/plinkr/github-profile-trophy">
   <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=plinkr&theme=matrix_reloaded&no-bg=true&no-frame=true&title=-Reviews,-Followers" />
 </a>
 
