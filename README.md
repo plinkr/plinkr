@@ -1,4 +1,3 @@
-### Hi there :)
 <a href="https://github.com/plinkr/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-theta-pearl.vercel.app/api?username=plinkr&show_icons=true&theme=dark&hide_title=false&hide_border=true&include_all_commits=false&rank_icon=default&card_width=300&title_color=3DDC84&text_color=417E87" />
 </a>
@@ -11,18 +10,6 @@
 <a href="https://github.com/plinkr/github-profile-trophy">
   <img height=200 align="center" src="https://github-profile-trophy-drab.vercel.app?username=plinkr&theme=matrix_reloaded&no-bg=true&no-frame=true&title=-Reviews,-Followers" />
 </a>
-
-<!--
-**plinkr/plinkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://keybase.io/plinkr">
+    <img src="https://img.shields.io/keybase/pgp/plinkr?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=417E87">
+</a>
